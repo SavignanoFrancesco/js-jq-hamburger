@@ -19,3 +19,6 @@ $('i.fas.fa-times').click(function() {
 // $('i.fas.fa-times').click(function() {
 //     $('.hamburger-menu').fadeOut();
 // });
+
+//aggiunta del logo tramite jquery
+$('.header-left img').attr('src','https://www.boolean.careers/images/misc/logo.png');
